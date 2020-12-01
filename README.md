@@ -10,10 +10,6 @@ We applied Ruby basic concepts to build an array, using block and yield to sort 
 
 - Ruby
 
-## Live Demo
-
-[Live Demo](insert link here to live demo/)
-
 ## Authors
 
 👤 **Arturo Alvarez**
