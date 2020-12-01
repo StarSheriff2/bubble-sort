@@ -28,7 +28,7 @@ We applied Ruby basic concepts to build an array, using block and yield to sort 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](inser issues page address here).
+Feel free to check the [issues page](https://github.com/StarSheriff2/bubble-sort/issues).
 
 ## Show your support
 
