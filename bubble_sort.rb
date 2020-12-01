@@ -1,9 +1,16 @@
 def bubble_sort(array)
 
-  loop do 
+  swapped = true
+
+  while swapped
     swapped = false
 
-    break if not swapped
+    for i in 0...array.length-1
+      if array[i] > array[i+1]
+        array[i], array[i+1] = array[i+1], array[i]
+        swapped = true
+      end
+    end
   end
   
   return array
