@@ -1,18 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# <insert title of project here>
+# Bubble Sort Method
 
-> <insert brief description here> 
+> In this project we used block and yield inside a method to sort items inside an array, according to their order or length 
 
-<Insert long description here including what were the projects objectives>.
-
-![screenshot](./assets/README/#################)
+We applied Ruby basic concepts to build an array, using block and yield to sort items in either numerical order or by a string's length.
 
 ## Built With
 
-- HTML
-- CSS
-- <inser any other technologies or tools used here>
+- Ruby
 
 ## Live Demo
 
@@ -28,7 +24,7 @@
 
 👤 **inser partner name here**
 
-- GitHub: [@bhandle](https://github.com/username)
+- GitHub: [@bhandle](https://github.com/abongsjoel)
 - LinkedIn: [inser name](https://linkedin.com/in/username)
 
 ## Contributing
@@ -40,9 +36,3 @@ Feel free to check the [issues page](inser issues page address here).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
