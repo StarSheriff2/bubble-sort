@@ -24,8 +24,9 @@ We applied Ruby basic concepts to build an array, using block and yield to sort 
 
 👤 **inser partner name here**
 
-- GitHub: [@bhandle](https://github.com/abongsjoel)
-- LinkedIn: [inser name](https://linkedin.com/in/username)
+- GitHub: [@abongsjoel](https://github.com/abongsjoel)
+- Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
+- LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
 
 ## Contributing
 
