@@ -5,7 +5,7 @@ def bubble_sort(array)
   while swapped
     swapped = false
 
-    for i in 0...array.length-1
+    0.upto(array.length-2) do |i|
       if array[i] > array[i+1]
         array[i], array[i+1] = array[i+1], array[i]
         swapped = true
@@ -24,7 +24,7 @@ def bubble_sort_by(array)
   while swapped
     swapped = false
 
-    for i in 0...array.length-1
+    0.upto(array.length-2) do |i|
       if yield(array[i], array[i + 1]).positive?
         array[i], array[i+1] = array[i+1], array[i]
         swapped = true
@@ -40,5 +40,5 @@ end
 
 p bubble_sort([20,19,15,9,8,7,6,5,4])
 
-p bubble_sort_by(["hi","hello","hey"]) {|left,right| left.length - right.length}
+p bubble_sort_by(["elephant","tiger","bat"]) {|left,right| left.length - right.length}
 
