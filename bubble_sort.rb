@@ -11,12 +11,10 @@ def bubble_sort(array)
       end
     end
   end
-  
   array
 end
 
 def bubble_sort_by(array)
-  
   swapped = true
 
   while swapped
@@ -29,10 +27,8 @@ def bubble_sort_by(array)
       end
     end
   end
-  
   array
-
 end
 
 p bubble_sort([20, 19, 15, 9, 8, 7, 6, 5, 4])
-p bubble_sort_by(%w[hi hey hello]) {|left,right| left.length - right.length}
+p bubble_sort_by(%w[hi hey hello]) { |left, right| left.length - right.length }
