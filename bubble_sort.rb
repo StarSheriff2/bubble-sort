@@ -33,9 +33,6 @@ def bubble_sort_by(array)
   end
   
   return array
-
-
-
 end
 
 p bubble_sort([20,19,15,9,8,7,6,5,4])
